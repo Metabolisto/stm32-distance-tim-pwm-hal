@@ -80,7 +80,6 @@ stm32-ultrasonic-distance/
 │ ├── Inc/                    # Заголовочные файлы (.h)
 │ └── Src/                    # Исходные файлы (.c)
 ├── Drivers/                  # Драйверы STM32 HAL
-├── lcd1602_i2c_lib/          # библиотека дисплея
 ├── .gitignore                # Исключения Git
 ├── HY-SRF05_LCD1602_HAL.ioc  # STM32CubeMX файл конфигурации
 └── README.md                 # Документация
