@@ -1,0 +1,31 @@
+# IDE-specific files and settings
+.settings/
+.project
+.cproject
+*.launch
+*.log
+
+# Build artifacts
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# User/editor-specific files
+.assets/
+*.swp
+*.swo
+*.swn
+*.DS_Store
+*.bak
+
+# Backup or temp files
+*~
+*.tmp
+*.ioc.bak
